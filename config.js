@@ -10,7 +10,7 @@ global.owner = [
   [''],
 ]
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "23756356998" //put your bot number here
 global.mods = ['923192173398'] 
 global.prems = ['923192173398', '923192173398', '923192173398']
 global.allowed = ['923192173398']
@@ -37,16 +37,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝗪𝗔𝗦𝗜-𝗠𝗗'
-global.princebot = '🛡️𝗪𝗔𝗦𝗜 𝗧𝗘𝗖𝗛🛡️'
-global.packname = '𝗪𝗔𝗦𝗜♥️' 
-global.author = '𝗧𝗘𝗖𝗛♥️' 
+global.botname = 'TRILEX'
+global.princebot = '🛡️TRILEX 𝗧𝗘𝗖𝗛🛡️'
+global.packname = 'TRIX♥️' 
+global.author = '𝗧RIX♥️' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j'
 global.menuvid = 'https://i.imgur.com/0UK6D3b.mp4'
 global.Princesc = '' 
 global.princeyt = 'https://youtube.com/@wasitech1'
-global.Princelog = 'https://i.imgur.com/ujxeU8g.jpeg'
+global.Princelog = 'https://telegra.ph/file/a0d04dedeb7f475357fdb.jpg'
 global.thumb = fs.readFileSync('./Assets/wasi.png')
 
 global.wait = '*♻️ _ʟᴏᴅɪɴɢ ᴘʟᴢ ᴡᴀɪᴛ ᴅᴇᴀʀ _*\n*▰▰▰▱▱▱▱▱*'
